@@ -8,3 +8,4 @@ kk
 welcome now
 thank you for coming 
 next check
+what a fifo 
