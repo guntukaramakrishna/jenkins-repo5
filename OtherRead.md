@@ -6,7 +6,7 @@ mary pop
 yesyes
 kk
 welcome now
-thank you for coming 
-next check
-what a fifo 
+thank you for coming. 
+next check.
+what a fifo. 
 yes this is cool. 
